@@ -27,3 +27,7 @@ Revision history for Perl extension Win32::PerfLib.
 	- added META.yml
 	- added ppport.h
 	- added casts to suppress compiler warnings under Win64
+
+0.07  Wed Dec 4 2013
+	- Fix required perl version 5.6 -> 5.006.
+	- Add Github repo link to META.yml
